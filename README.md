@@ -78,5 +78,5 @@ To contribute infrastructure-grade documentation to wallet teams, bundler operat
 
 ## Contact
 
-- GitHub: https://github.com/AgboolaEnoch
+- GitHub: https://github.com/enochTe8 
 - Email: agboolaenoch12@gmail.com
